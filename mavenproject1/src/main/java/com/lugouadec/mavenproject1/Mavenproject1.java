@@ -4,6 +4,8 @@
 
 package com.lugouadec.mavenproject1;
 
+import Vista.vntPrincipal;
+
 /**
  *
  * @author LugoUAdeC
@@ -11,6 +13,6 @@ package com.lugouadec.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        new vntPrincipal();
     }
 }
